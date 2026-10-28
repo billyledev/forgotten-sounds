@@ -1,0 +1,6 @@
+{
+	"name": "forgottensounds-devcontainer",
+  "image": "nodejs/devcontainer:nightly",
+	"remoteUser": "root",
+	"workspaceFolder": "/workspaces/forgottensounds"
+}
